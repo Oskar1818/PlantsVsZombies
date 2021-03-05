@@ -66,3 +66,6 @@ public class Collider extends JPanel implements MouseListener {
 
     }
 }
+
+
+// TODO BREAKS SINGLE RESPONSIBILITY PRINCIPLE
